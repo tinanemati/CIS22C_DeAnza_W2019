@@ -1,0 +1,129 @@
+Dr No
+Terence Young
+1962
+59.5
+
+From Russia with Love
+Terence Young
+1963
+79.0
+
+Goldfinger 
+Guy Hamilton
+1964
+125.0
+         
+Thunderball
+Kevin McClory
+1965
+141.2
+
+Casino Royale
+Ken Hughes
+1967
+41.7
+
+You Only Live Twice
+Lewis Gilbert
+1967
+111.6
+
+On Her Majesty's Secret Service
+Peter R. Hunt
+1969
+82.0
+
+Diamonds are Forever
+Guy Hamilton
+1971
+116.0
+
+Live and Let Die
+Guy Hamilton
+1973
+161.8
+
+The Man with the Golden Gun
+Guy Hamilton
+1974
+97.6
+
+The Spy Who Loved Me
+Lewis Gilbert
+1977
+185.4
+
+Moonraker
+Lewis Gilbert
+1979
+210.3
+
+For Your Eyes Only
+John Glen
+1981
+195.3
+
+Octopussy
+John Glen
+1983
+187.5
+
+Never Say Never Again
+Irvin Kirshner
+1983
+160.0
+
+A View to Kill
+John Glen
+1985
+152.4
+
+The Living Daylights
+John Glen
+1987
+191.2
+
+Licence to Kill
+John Glen
+1989
+156.1
+
+Goldeneye
+Martin Campbell
+1995
+355.0
+
+Tomorrow Never Dies
+Roger Spottiswoode
+1997
+333.0
+
+The World is Not Enough
+Michael Apted
+1999
+362.0
+
+Die Another Day
+Lee Tamahori
+2002
+435.0
+
+Casino Royale
+Martin Campbell
+2006
+600.0
+
+Quantum of Solace
+Marc Forster
+2008
+586.1
+
+Skyfall
+Sam Mendes
+2012
+1109
+
+Spectre
+Sam Mendes
+2015
+880.7
